@@ -1,3 +1,3 @@
 # это просто текст внутри файла readme.md
-#srtdop1
-#strdop2
+#srtdop11
+#strdop21
